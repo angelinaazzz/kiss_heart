@@ -112,7 +112,7 @@ int main(int argc, char** argv) {
 		#endif	
 	}
 			
-	//bucle de manuel
+	//bucle de manuel rios
 	
 	cout<<"FIN";
 	return 0;
